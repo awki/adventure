@@ -1,0 +1,67 @@
+body {
+background-color: #222222;
+}
+.dv00 {
+position: relative;
+width: 620px;
+margin-right: auto;
+margin-left: auto;
+font-family: Arial, Helvetica, sans-serif;
+resize: none;
+}
+.dv10 {
+position: relative;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+font-size: 24px;
+color: #999999;
+}
+.dv20 {
+position: relative;
+margin: 10px;
+padding: 10px;
+border: 1px solid #808080;
+font-family: "Courier New",courier,fixed,monospace;
+font-size: 18px;
+color: #80ff80;
+background-color: #000000;
+}
+.term {
+font-family: "Courier New",courier,fixed,monospace;
+font-size: 12px;
+letter-spacing: 1px;
+color: #80ff80;
+background: none;
+}
+.termReverse {
+color: #8080ff;
+background: none;
+}
+.dv30 {
+position: relative;
+padding-top: 12px;
+padding-bottom: 10px;
+padding-left: 30px;
+padding-right: 25px;
+font-size: 11px;
+color: #999999;
+}
+.dv31 {
+position: relative;
+font-size: 11px;
+text-align: center;
+color: #999999;
+}
+a,a:link,a:visited {
+text-decoration: none;
+color: #77cc11;
+}
+a:hover {
+text-decoration: underline;
+color: #77cc11;
+}
+a:active {
+text-decoration: underline;
+color: #eeeeee;
+}
